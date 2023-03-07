@@ -1,1 +1,2 @@
-How to be up to date in git
+To get all changes of the main branch locally, run the following command in your terminal:
+git pull origin main
